@@ -3,7 +3,7 @@
 // GRUPOS - ()
 // OU - |
 const { texto } = require('./base');
-const regExp1 = /(maria|joão|luiz)(, hoje sua esposa)/i; 
+const regExp1 = /(maria|joão|luiz)(, hoje sua esposa)/i;
 const found = regExp1.exec(texto);
 
 console.log(found[0]);

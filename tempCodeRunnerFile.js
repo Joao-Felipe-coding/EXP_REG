@@ -1,1 +1,0 @@
-const { texto } = require('./base');
