@@ -17,7 +17,9 @@ const arquivos = [
   'Marido.png',
   'lista de compras.txt'
 ];
+ 
+const html = '<p> Olá mundo</p> <p> Olá de novo</p>';
 
 module.exports = {
-  texto, arquivos
+  texto, arquivos, html
 }

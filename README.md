@@ -104,4 +104,10 @@ com esta repetição podemos ver no console como ficaria a busca com match basea
 
 # Aula 4 - Greedy e non-greedy (lazy)
 
+### Greedy
 
+este seria um ganacioso, responsável por ser uma forma de capturar vários dados de uma vez, assim como foi registrado em aula4.js. Ele é responsável por capturar todas as suas especificações sem separações, pegando um elemento por inteiro, um exemplo bom para ser usado, seria capturar uma div com diversos elementos dentro de si.
+
+### Non-greedy
+
+já o non greedy, ele separaria à cada fim de um elemento os dados buscados, no caso de se utilizar o match, então um não se torna melhor que o outro, mas cada um tem seu momento certo de utilização.
